@@ -45,7 +45,7 @@ The dashboard highlights how increased QA staffing and coverage in 2024 correlat
 
 ## 📊 Dashboard Preview
 
-![QA Metrics Dashboard](QA_dashboard.png)
+![QA Metrics Dashboard](images/QA Coverage Analysis.png)
 
 ## Key Insights
 - Higher QA coverage in 2024 coincided with an approximate 50% reduction in average daily deviations.
