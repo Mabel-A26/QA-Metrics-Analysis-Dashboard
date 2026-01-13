@@ -43,6 +43,10 @@ The dashboard highlights how increased QA staffing and coverage in 2024 correlat
 - Total QA Observations
 - Daily QA Hours on the Floor
 
+## 📊 Dashboard Preview
+
+![QA Metrics Dashboard](QA_dashboard.png)
+
 ## Key Insights
 - Higher QA coverage in 2024 coincided with an approximate 50% reduction in average daily deviations.
 - QA staffing increases in early 2024 resulted in sustained higher QA presence on the floor.
